@@ -4,7 +4,9 @@
  * You'll need to register this file in your web app and you should
  * disable HTTP caching for this file too.
  * See https://goo.gl/nhQhGp
- *
+ *ugniom o,l;,;jh
+ knimol;
+ kn
  * The rest of the code is auto-generated. Please don't update this file
  * directly; instead, make changes to your Workbox build configuration
  * and re-run your build process.
@@ -22,7 +24,7 @@ self.addEventListener('message', (event) => {
     self.skipWaiting();
   }
 });
-
+//hbjknklmlkml;
 workbox.core.clientsClaim();
 
 /**
